@@ -1,4 +1,4 @@
-# Insurance  Quality & Missing Values Analysis
+# Insurance Data Quality & Missing Values Analysis
 
 ### Python | Pandas | NumPy | Matplotlib | Seaborn | EDA
 
